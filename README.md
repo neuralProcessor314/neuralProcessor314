@@ -13,3 +13,7 @@ This calculation unit features few hundred kiloyears old biological calculation 
    <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=neuralProcessor314/neuralProcessor314&type=date&legend=top-left" />
  </picture>
 </a>
+
+
+## Sources
+profile pic - image: Fair use, https://en.wikipedia.org/w/index.php?curid=1156147
